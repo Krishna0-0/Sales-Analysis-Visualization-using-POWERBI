@@ -31,7 +31,6 @@ o	Multi-core processor to handle large datasets
 bash
 CopyEdit
 git clone https://github.com/Krishna0-0/Sales-Analysis-Visualization-using-POWERBI.git
-cd ecommerce-sales-dashboard
 2.	Open the Power BI Report
 o	Launch Power BI Desktop
 o	Open the project.pbix file
