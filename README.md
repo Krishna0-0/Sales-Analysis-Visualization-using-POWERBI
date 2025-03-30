@@ -17,12 +17,14 @@ o	State-wise revenue and profit distribution analysis
 •	Customer and Payment Insights
 o	Identification of top customers based on purchase amount
 o	Payment mode distribution, analyzing COD, UPI, debit/credit card, and EMI usage
+
 🛠️ Technical Requirements
 •	Power BI Desktop (Latest Version)
 •	E-Commerce Sales Dataset (Contained within project.pbix)
 •	System Configuration:
 o	Minimum 8GB RAM, recommended 16GB+ for optimal performance
 o	Multi-core processor to handle large datasets
+
 🚀 Deployment and Usage Instructions
 1.	Clone the Repository
 bash
@@ -35,11 +37,16 @@ o	Open the project.pbix file
 3.	Interact with the Dashboard
 o	Utilize filters to refine data views
 o	Analyze visual trends and gain actionable insights
+
 📷 Dashboard Preview
 1️⃣ Sales & Profitability Overview
-![image](https://github.com/user-attachments/assets/151dd0f0-abf0-4782-8e32-8e653f5cd29e)
+
+![image](https://github.com/user-attachments/assets/315de914-51e1-4283-9b16-5a5ecdd3fc8b)
+
 2️⃣ Regional & Customer Insights
+
 ![image](https://github.com/user-attachments/assets/7a881d29-4a63-4463-80bf-66ec1e30f612)
+
 📈 Analytical Visualizations
 •	Total Sales & Profit Metrics 📊
 o	Key financial indicators aggregated for holistic insights
@@ -51,6 +58,7 @@ o	Identification of high-revenue regions and market penetration
 o	Top buyers and their purchasing patterns
 •	Payment Mode Distribution 💳
 o	Analysis of preferred transaction methods
+
 🔍 Key Business Insights
 •	Printers exhibit the highest profitability, making them the best-selling product 📈
 •	Furnishings incur losses, indicating potential inventory or demand issues 📉
