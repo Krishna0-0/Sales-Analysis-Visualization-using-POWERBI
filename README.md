@@ -1,6 +1,7 @@
 # Sales-Analysis-Visualization-using-POWERBI
 📌 Project Overview
 This project presents a meticulously crafted Power BI dashboard that facilitates a comprehensive analysis of e-commerce sales data. The dashboard is designed to empower business stakeholders with data-driven insights, leveraging interactive visualizations to discern patterns in sales, profitability, customer behavior, and regional market dynamics.
+
 🔥 Key Features
 •	Financial Metrics Analysis
 o	Aggregated insights into Total Sales, Total Quantity Sold, and Total Profit
